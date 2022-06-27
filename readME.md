@@ -1,0 +1,1 @@
+Each pipe is to be associated with a specific harvesting process related to a specific Pilot. The different segments of each pipe refer to the different components of the connector and their individual configuration.
